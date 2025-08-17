@@ -32,11 +32,3 @@ If you enter https://example.com, the crawler will scan all pages under example.
 License
 MIT License
 
-
-
-
-
-
-
-
-ChatGPT’ye sor
